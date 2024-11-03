@@ -11,7 +11,7 @@ public class Pevets1 extends Thread {
             }
             // Song
             for (int i = 0; i < 3; i++) {
-                System.out.println("LALA----------");
+                System.out.println("LALALA----------");
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {
