@@ -2,7 +2,7 @@ package Therads;
 
 public class Vedushiy {
     public static void main(String[] args) {
-        System.out.println("Start concert!!!");
+        System.out.println("Start concert!!!!");
 
         Pevets1 pevets1 = new Pevets1();
         pevets1.start();
