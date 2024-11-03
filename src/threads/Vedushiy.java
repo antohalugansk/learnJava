@@ -1,4 +1,4 @@
-package Therads;
+package threads;
 
 public class Vedushiy {
     public static void main(String[] args) {

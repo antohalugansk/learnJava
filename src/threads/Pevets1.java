@@ -1,4 +1,4 @@
-package Therads;
+package threads;
 
 public class Pevets1 extends Thread {
     private boolean isrunning = true;

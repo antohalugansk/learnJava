@@ -1,4 +1,4 @@
-package Therads;
+package threads;
 
 public class Pevets2 extends Thread{
     public void run() {
